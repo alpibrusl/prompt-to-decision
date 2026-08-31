@@ -16,7 +16,7 @@ That is the gap this book is about, and it is worth being precise about why the 
 
 Here is the distinction this whole book rests on.
 
-A **recommendation** is an optimization result: the best option among the ones considered, against the objective the agent understood, given the evidence it had. It is a genuinely useful thing, and everything in this book assumes the agent produced it honestly, using real computation, real evidence, a real model — the disciplines the first three books teach.
+A **recommendation** is best understood as an optimization result: the best option among the ones considered, against the objective the agent understood, given the evidence it had. Not every recommendation gets there by literally running an optimization — an agent might reach it by heuristic, analogy, or rule instead — but the shape is the same either way: some objective, some options, a pick among them. It is a genuinely useful thing, and everything in this book assumes the agent produced it honestly, using real computation, real evidence, a real model — the disciplines the first three books teach.
 
 A **decision** is different in kind, not just in degree. It is a commitment made under uncertainty, with consequences that land on actual people — including, always, the option of doing nothing, which is a decision too, not the absence of one. The agent can hand you a recommendation. It cannot hand you a decision, because a decision requires something a recommendation doesn't: someone accountable for what happens if it's wrong.
 
@@ -40,7 +40,7 @@ For as long as reaching a real recommendation required understanding the objecti
 
 ## The asymmetry
 
-**The agent will optimize for the objective you gave it, and will rarely ask whether that was the right objective to optimize for.**
+**An agent can optimize extremely well for the objective it inferred. Unless you make the objective itself part of what you ask for, there is no guarantee the objective it optimized is the one you actually hold.**
 
 Ask whether Ledgerly should expand into Germany and you get an answer about whether, given growth as the goal, Germany beats the alternatives it considered. Whether growth was actually the right thing to be optimizing for right now — versus runway safety, versus founder control, versus simply proving the current model works before scaling it — depends entirely on whether you asked, because the agent answered the objective it was handed, not the one underneath it that nobody stated out loud.
 

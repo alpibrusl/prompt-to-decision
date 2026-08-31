@@ -6,7 +6,7 @@ Ask the agent to compare expanding into Germany versus France, and it will tell 
 
 An **alternative** is one of the specific options actually being weighed against each other in a recommendation. "Germany or France" is a comparison between two alternatives. It is not the same thing as "every option Ledgerly actually has," and the gap between those two is where a great many bad decisions quietly originate — not from choosing badly among the options considered, but from never considering the option that mattered most.
 
-An agent optimizes over whatever alternatives it was handed, or whatever alternatives seemed implied by the request. Ask "should we expand into Germany or France" and you will get a careful, honest comparison of exactly those two things — not a challenge to the premise that expansion is the right category of move at all. This is not the agent failing to think broadly. It answered the comparison you actually posed. Widening the comparison was never its job unless you asked for that too.
+An agent optimizes over whatever alternatives it was handed, or whatever alternatives seemed implied by the request. Ask "should we expand into Germany or France" and you will get a careful, honest comparison of exactly those two things — not a challenge to the premise that expansion is the right category of move at all. The agent didn't fail to think broadly; it answered the comparison you actually posed, which is a narrower job than widening it, and widening it was never asked for.
 
 ## The alternatives that get left off, and why
 

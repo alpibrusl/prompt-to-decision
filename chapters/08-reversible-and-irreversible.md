@@ -6,6 +6,8 @@ Not every wrong decision costs the same to undo, and treating them as though the
 
 **Reversibility** is how much of a decision's cost you get back if it turns out to be wrong and you change course. Some decisions are close to fully reversible: hire someone, and if it doesn't work out within a few months, you part ways — a real cost, in money and in the disruption to the person's life, but a cost that stops accruing once you act. Other decisions are close to irreversible: sign a five-year office lease in Germany, and walking away doesn't make the commitment disappear — you're paying for it whether or not you're using it.
 
+That "close to fully reversible" is measured from Ledgerly's side. From the employee's side, it can look considerably less reversible — a previous job left, a family relocated, a visa that doesn't unwind cleanly if the role ends in month three. Reversibility, like the risk in Chapter 12, depends partly on whose perspective you're measuring it from, and a recommendation that only counts the company's cost of changing course is quietly deciding whose reversibility counts.
+
 The useful image is a door. Some decisions are a door you can walk back through — reversible, worth trying quickly and correcting if you're wrong, because the cost of trying and being wrong is genuinely low. Others are a door that locks behind you — irreversible, or close enough to it that "we'll adjust if it doesn't work" isn't actually available to you once you've gone through.
 
 ## The mistake is applying one standard to both

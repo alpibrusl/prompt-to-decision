@@ -17,9 +17,10 @@ concepts:
   # ─── Chapter 1 — The Handoff ────────────────────────────────────────────
   - term: "recommendation"
     definition: >-
-      An optimization result: the best option among the ones considered,
-      against the objective the agent understood, given the evidence it
-      had.
+      Best understood as an optimization result: the best option among the
+      ones considered, against the objective the agent understood, given
+      the evidence it had — whether or not an explicit optimization
+      actually produced it.
     defined_in: 1
 
   - term: "decision"
@@ -85,9 +86,10 @@ concepts:
   # ─── Chapter 7 — What Would Change Your Mind? ────────────────────────────
   - term: "decision threshold"
     definition: >-
-      A specific, stated condition, set before acting, that would mean a
-      decision was a mistake — a number or an event named in advance, not
-      a vague sense that things aren't going well.
+      A precommitted condition, set before acting, that triggers
+      reassessment, stopping, or changing course — a number or an event
+      named in advance, not a vague sense that things aren't going well,
+      and not proof the original decision was irrational if it's crossed.
     depends_on: ["decision"]
     defined_in: 7
 
