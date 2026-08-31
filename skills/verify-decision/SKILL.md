@@ -1,6 +1,20 @@
 ---
 name: verify-decision
-description: Use this skill before a recommendation (from this agent or referenced by the user) gets treated as a decision ready to act on — when the user says things like "should we do this," "are we ready to decide," "I'm about to greenlight this," "let's move forward with the recommendation," or asks "is this decision-ready," "what am I missing before I commit to this." Runs the pre-decision checklist from the book *Prompt to Decision*, checking only whether each element (objective, alternatives, threshold, ownership, and so on) has actually been stated somewhere explicit — never whether it's the *right* one, which stays a human call by design. Do not use it to evaluate whether a recommendation's underlying analysis, code, or financial model is sound — that's the job of this series' other verification skills (verify-production, verify-evidence, verify-ledger). This skill assumes the recommendation itself is trustworthy and checks only the layer above it: whether it's actually ready to be decided on.
+description: >-
+  Use this skill before a recommendation (from this agent or referenced by
+  the user) gets treated as a decision ready to act on — when the user says
+  things like "should we do this," "are we ready to decide," "I'm about to
+  greenlight this," "let's move forward with the recommendation," or asks
+  "is this decision-ready," "what am I missing before I commit to this."
+  Runs the pre-decision checklist from the book *Prompt to Decision*,
+  checking only whether each element (objective, alternatives, threshold,
+  ownership, and so on) has actually been stated somewhere explicit — never
+  whether it's the *right* one, which stays a human call by design. Do not
+  use it to evaluate whether a recommendation's underlying analysis, code,
+  or financial model is sound — that's the job of this series' other
+  verification skills (verify-production, verify-evidence, verify-ledger).
+  This skill assumes the recommendation itself is trustworthy and checks
+  only the layer above it — whether it's actually ready to be decided on.
 ---
 
 # Verify Decision
