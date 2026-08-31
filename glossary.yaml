@@ -1,0 +1,144 @@
+# The concept ledger for "Prompt to Decision".
+#
+# This is the book's canon: every piece of jargon it teaches, the ONE definition
+# it commits to, and the ONE analogy it uses for that idea throughout. Chapters
+# are written against this file; `make check` lints the manuscript against it.
+#
+# Structurally identical to the other three volumes' glossary.yaml — same
+# tooling, same discipline, different subject. `counterfactual` is a
+# deliberate cross-book reuse of prompt-to-evidence's term and definition,
+# not a coincidence — see CLAUDE.md.
+
+kind: technical
+title: "Prompt to Decision"
+
+concepts:
+
+  # ─── Chapter 1 — The Handoff ────────────────────────────────────────────
+  - term: "recommendation"
+    definition: >-
+      An optimization result: the best option among the ones considered,
+      against the objective the agent understood, given the evidence it
+      had.
+    defined_in: 1
+
+  - term: "decision"
+    definition: >-
+      A commitment made under uncertainty, with consequences that land on
+      actual people — including the choice to do nothing, which is a
+      decision too, not the absence of one.
+    depends_on: ["recommendation"]
+    defined_in: 1
+
+  - term: "counterfactual"
+    definition: >-
+      What would have happened if you had chosen differently. Never
+      directly observable — only the world that actually occurred is.
+      Every decision is implicitly a bet against one.
+    depends_on: ["decision"]
+    defined_in: 1
+
+  # ─── Chapter 2 — What Are You Actually Trying to Achieve? ───────────────
+  - term: "objective"
+    definition: >-
+      The goal a recommendation is actually optimized against — the thing
+      "best" secretly means in "here's the best option."
+    depends_on: ["recommendation"]
+    defined_in: 2
+
+  # ─── Chapter 3 — What Are the Alternatives? ──────────────────────────────
+  - term: "alternative"
+    definition: >-
+      One of the specific options actually being weighed against each
+      other in a recommendation — not the same thing as every option
+      genuinely available.
+    depends_on: ["recommendation"]
+    defined_in: 3
+
+  # ─── Chapter 4 — What Happens If You Do Nothing? ─────────────────────────
+  - term: "status quo"
+    definition: >-
+      The alternative of continuing what's already happening, unchanged —
+      the option nobody has to design, propose, or defend, because it's
+      simply what continues by default if no decision gets made.
+    depends_on: ["alternative"]
+    defined_in: 4
+
+  # ─── Chapter 5 — What Are You Optimizing For? ────────────────────────────
+  - term: "trade-off"
+    definition: >-
+      A point where advancing one objective costs you ground on another —
+      a genuine choice, where more of one thing really does mean less of
+      another.
+    depends_on: ["objective"]
+    defined_in: 5
+
+  # ─── Chapter 6 — Whose Preferences Are These? ────────────────────────────
+  - term: "objective function"
+    definition: >-
+      The actual, precise thing being maximized once every competing goal
+      has been given a weight — a values statement wearing a number's
+      clothes, whether or not anyone agreed to the weighting.
+    depends_on: ["trade-off"]
+    defined_in: 6
+
+  # ─── Chapter 7 — What Would Change Your Mind? ────────────────────────────
+  - term: "decision threshold"
+    definition: >-
+      A specific, stated condition, set before acting, that would mean a
+      decision was a mistake — a number or an event named in advance, not
+      a vague sense that things aren't going well.
+    depends_on: ["decision"]
+    defined_in: 7
+
+  # ─── Chapter 8 — Reversible and Irreversible ─────────────────────────────
+  - term: "reversibility"
+    aka: ["one-way door", "two-way door"]
+    definition: >-
+      How much of a decision's cost you get back if it turns out to be
+      wrong and you change course.
+    depends_on: ["decision"]
+    defined_in: 8
+
+  # ─── Chapter 9 — The Cost of Being Wrong ─────────────────────────────────
+  - term: "asymmetric risk"
+    definition: >-
+      When the upside and downside of a decision aren't mirror images of
+      each other — when being right and being wrong don't cost and pay the
+      same amount, even at identical odds.
+    depends_on: ["decision"]
+    defined_in: 9
+
+  # ─── Chapter 10 — What Do You Learn by Waiting? ──────────────────────────
+  - term: "value of information"
+    definition: >-
+      What a decision is worth improving by, if you delay it just long
+      enough to learn something that would actually change it.
+    depends_on: ["decision threshold"]
+    defined_in: 10
+
+  # ─── Chapter 11 — The Second-Order Effect ────────────────────────────────
+  - term: "second-order effect"
+    definition: >-
+      A consequence that follows from the direct result of a decision,
+      rather than from the decision itself — the kind of thing a financial
+      or analytical model was never built to capture.
+    depends_on: ["decision"]
+    defined_in: 11
+
+  # ─── Chapter 12 — Who Bears the Risk? ─────────────────────────────────────
+  - term: "externality"
+    definition: >-
+      A cost of a decision that lands on someone other than the person
+      making it.
+    depends_on: ["decision"]
+    defined_in: 12
+
+  # ─── Chapter 14 — Who Owns the Decision? ─────────────────────────────────
+  - term: "accountability"
+    definition: >-
+      Being the person the consequences of a decision actually land on —
+      not the person who proposed, computed, or recommended it, but the
+      one who has to live with the outcome and answer for it.
+    depends_on: ["decision"]
+    defined_in: 14
