@@ -12,7 +12,7 @@ The agent optimizing for "growth" did not make an error. Growth is a completely 
 
 Ledgerly's founders, if you asked them directly, might hold several objectives at once, and they might not agree with each other. Grow the business, obviously. But also: don't run out of cash before the next raise. Also: don't get so diluted expanding that the round after this one costs more control than it's worth. Also, quietly, underneath the others: prove to themselves and their existing investor that the current model actually works before betting on a new one.
 
-An optimization needs a single objective, or a stated way of weighing several against each other, to produce one clean recommendation. A person is allowed to hold several unresolved objectives at once and never quite rank them, because that's what it is to run a business under uncertainty. When you hand a request to an agent without resolving that ranking yourself, the agent doesn't leave it unresolved the way you might have. It picks — usually the objective most directly implied by the words you used — and hands back a confident answer built on a choice you never actually made.
+To produce one clean recommendation, competing objectives eventually need some rule for resolving the trade-off between them. A person is allowed to hold several unresolved objectives at once and never quite rank them, because that's what it is to run a business under uncertainty. When you hand a request to an agent without resolving that ranking yourself, the agent doesn't leave it unresolved the way you might have. It picks — usually the objective most directly implied by the words you used — and hands back a confident answer built on a choice you never actually made.
 
 ## Whose review recognizes the goal, and whose doesn't
 
