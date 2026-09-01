@@ -18,7 +18,7 @@ This cuts against a natural instinct, worth naming directly: it's tempting to tr
 
 ## Disagreement between people is worth exactly this same treatment
 
-The same test applies when the disagreement isn't with an agent but with a cofounder, an investor, or a board member who's pushing back on a plan you believe in. Before treating their objection as noise to get past, ask the same question you'd ask of the agent: does their objection point at something the plan genuinely hadn't accounted for, or is it a feeling with no new information behind it? Both kinds of objection deserve a respectful hearing. Only one of them should actually move the decision, and figuring out which one you're facing is the entire skill this chapter is about.
+The same test applies when the disagreement isn't with an agent but with a cofounder, an investor, or a board member who's pushing back on a plan you believe in. Before treating their objection as noise to get past, ask the same question you'd ask of the agent: does their objection point at something the plan genuinely hadn't accounted for — a cost, an alternative, a risk they will carry that you won't — or is it a feeling with no new information behind it? The first kind should move the decision. The second is subtler with a person than with an agent: an agent's wobble under doubt is noise, but a cofounder's "this feels too fast" may be Chapter 6's finding arriving in plain clothes — a real difference in risk tolerance, which is information about whose preferences the plan is running on even when it carries no new fact about the plan itself. That deserves to move the weighting, not the evidence. Telling a new fact from a new preference from plain noise is the entire skill this chapter is about.
 
 ## What to ask for
 

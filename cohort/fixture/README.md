@@ -16,8 +16,9 @@ finding the gaps, not being told about them, is the exercise.
 ## Generate it
 
 ```bash
-./generate-brief.sh                    # → ./decision-brief.md
+./generate-brief.sh                    # → decision-brief.md next to the script
 ./generate-brief.sh /path/to/output.md  # or choose where
+./generate-brief.sh --force             # overwrite last session's copy
 ```
 
 Run this **fresh before each session** that uses it, not once at the start of
@@ -39,7 +40,7 @@ the book's own.
 - **Session 5** (Chapters 9, 10 — cost of being wrong, value of waiting) —
   the memo gives a bare 60% success probability with no description of what
   the other 40% actually looks like to live through, and never asks what a
-  smaller, cheaper test would teach before the full six-hire, two-year-lease
+  smaller, cheaper test would teach before the full six-hire, five-year-lease
   commitment.
 - **Session 8 (capstone)** — a real target for the `verify-decision` skill,
   for anyone without a real recommendation of their own to point it at. Every

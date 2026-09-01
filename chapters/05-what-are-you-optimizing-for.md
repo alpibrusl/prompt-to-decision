@@ -10,7 +10,7 @@ The danger is not having competing objectives — every real decision has them. 
 
 ## The number the agent didn't show you
 
-Ask for a recommendation, and an agent will very often quietly pick a point on the trade-off curve and hand you only that point — "hire six, expand into Germany" — without showing you the curve itself. Maybe hiring three people instead of six gets you sixty percent of the growth for thirty percent of the runway cost. Maybe hiring six but delaying the Germany office by one quarter changes the trade-off substantially. These are all real points on the same underlying curve, and a recommendation that shows you exactly one of them — without the shape of the whole thing — is asking you to trust a single choice you never got to see the alternatives to.
+Ask for a recommendation, and an agent will very often quietly pick a point on the trade-off curve and hand you only that point — "hire six, expand into Germany" — without showing you the curve itself. Maybe hiring three people instead of six gets you sixty percent of the growth for two-thirds of the runway cost — and maybe, because runway is cash divided by burn, the second three hires cost fewer months than the first three did, so the real question is what the last three are buying. Maybe hiring six but delaying the Germany office by one quarter changes the trade-off substantially. These are all real points on the same underlying curve, and a recommendation that shows you exactly one of them — without the shape of the whole thing — is asking you to trust a single choice you never got to see the alternatives to.
 
 This is not a criticism of picking one answer; a recommendation has to land somewhere. It's a caution about accepting the landing point without seeing enough of the curve to know whether a nearby point would have served you better. Three hires and a slower Germany timeline might be a substantially better trade for Ledgerly's actual risk tolerance than six hires and full speed, and you cannot know that from a recommendation that only ever showed you one point.
 
@@ -36,19 +36,19 @@ The fix is a direct request, not a complicated one: ask for the trade-off explic
 <text x="360" y="286" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" fill="#666">6</text>
 <text x="530" y="286" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" fill="#666">9</text>
 <text x="340" y="304" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" letter-spacing="0.06em" fill="#9a9a9a">HIRES</text>
-<path d="M190,244 Q275,215 360,182 Q445,150 530,116" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
-<circle cx="190" cy="244" r="4" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
-<line x1="190" y1="236" x2="190" y2="220" stroke="#666" stroke-width="1"/>
-<text x="190" y="200" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#1a1a1a">3 hires</text>
-<text x="190" y="214" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" fill="#666">about 60% growth, 1.2 mo cost</text>
-<line x1="360" y1="174" x2="360" y2="142" stroke="#8a3324" stroke-width="1" stroke-dasharray="3,3"/>
-<circle cx="360" cy="182" r="7" fill="none" stroke="#8a3324" stroke-width="1.6"/>
-<text x="360" y="122" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#8a3324">the recommendation</text>
-<text x="360" y="136" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" fill="#666">6 hires -- 100% growth, 4 mo cost</text>
-<circle cx="530" cy="116" r="4" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
-<text x="515" y="86" text-anchor="end" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#1a1a1a">9 hires</text>
-<text x="515" y="100" text-anchor="end" font-family="EB Garamond, Georgia, serif" font-size="10.5" fill="#666">about 115% growth, 7 mo cost</text>
-<text x="330" y="330" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" font-style="italic" fill="#444">One point was shown as the answer; the curve is where the real choice was.</text>
+<path d="M190,186 Q275,160 360,143 Q445,127 530,117" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="190" cy="186" r="4" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="190" y1="178" x2="190" y2="162" stroke="#666" stroke-width="1"/>
+<text x="190" y="142" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#1a1a1a">3 hires</text>
+<text x="190" y="156" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" fill="#666">about 60% growth, 3.9 mo cost</text>
+<line x1="360" y1="135" x2="360" y2="103" stroke="#8a3324" stroke-width="1" stroke-dasharray="3,3"/>
+<circle cx="360" cy="143" r="7" fill="none" stroke="#8a3324" stroke-width="1.6"/>
+<text x="360" y="83" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#8a3324">the recommendation</text>
+<text x="360" y="97" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" fill="#666">6 hires -- 100% growth, 5.9 mo cost</text>
+<circle cx="530" cy="117" r="4" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="530" y="150" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#1a1a1a">9 hires</text>
+<text x="530" y="164" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" fill="#666">about 115% growth, 7.1 mo cost</text>
+<text x="330" y="330" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" font-style="italic" fill="#444">One point was shown as the answer; the curve is where the real choice was. Months of runway lost: cash divided by burn, before and after each hire.</text>
 </svg>
 </div>
 

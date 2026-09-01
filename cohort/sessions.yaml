@@ -40,13 +40,16 @@ sessions:
       description: >-
         Score the brief's missing alternatives — staying domestic and
         reinvesting in the feature that already tested well, and a lean
-        pilot before the full hire-and-lease commitment — on the same
-        objective and the same evidence the brief already provides. Don't
-        assume either is safe; actually score it.
+        pilot before the full hire-and-lease commitment — on the objective
+        the brief implies. Name that objective first, in writing, because
+        the brief never states one; then score each alternative on the
+        evidence the brief provides, marking plainly where the evidence is
+        simply missing. Don't assume either is safe; actually score it.
       fixture_ref: "fixture/generate-brief.sh"
     checkpoint: >-
-      A written score for the status quo, on the same objective as the
-      brief's recommended option — not asserted safe by default.
+      A written score for the status quo, on an objective the student has
+      had to name explicitly because the brief never did — not asserted
+      safe by default.
     facilitator_notes: >-
       Run `fixture/generate-brief.sh` fresh right before the session. Most
       groups initially defend "Germany vs. France" as a reasonable
@@ -70,14 +73,26 @@ sessions:
     exercise:
       name: "Find the missing curve"
       description: >-
-        Using only the brief's own financial-model numbers, produce a
-        three-point growth-versus-runway table (three hires, six, nine),
-        then write one sentence naming whose risk tolerance the brief's
-        recommended point actually reflects — not "the company's."
+        Using the brief's own financial-model numbers, produce a
+        three-point growth-versus-runway table (three hires, six, nine).
+        The runway column comes straight from cash divided by burn at each
+        headcount; the growth column comes from the brief's single
+        projection plus an assumption the student states explicitly about
+        how it scales with hires. Then write one sentence naming whose
+        risk tolerance the brief's recommended point actually reflects —
+        not "the company's."
       fixture_ref: "fixture/generate-brief.sh"
     checkpoint: >-
-      A three-point table plus one sentence naming a specific person or
-      role, not an abstraction, as the source of the weighting used.
+      A three-point table with the scaling assumption written down, plus
+      one sentence naming a specific person, not an abstraction, as the
+      source of the weighting used.
+    facilitator_notes: >-
+      Reference runway column for the generated brief, with €480,000 of
+      cash implied by twelve months at €40,000 and about €6,500 per hire
+      per month: three hires leave 8.1 months (3.9 lost), six leave 6.1
+      (5.9 lost), nine leave 4.9 (7.1 lost). The curve is concave — each
+      extra three hires cost fewer months than the last three — which
+      surprises most groups and is the point of drawing it.
 
   - number: 4
     title: "Sizing the Commitment"

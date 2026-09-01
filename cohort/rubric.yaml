@@ -13,13 +13,14 @@ dimensions:
       person, never answered on the recommendation's behalf, even when a
       confident-sounding answer would be easy to produce.
 
-  - name: "Stakes actually sized"
+  - name: "Stakes sized, or honestly reported as unsized"
     description: >-
-      The threshold has a number, a date, and a stated consequence; the
-      commitment is split into its reversible and irreversible parts, each
-      held to its own bar; the downside is described concretely enough that
-      someone could picture living through it, not left as a bare
-      probability.
+      The check states whether the threshold has a number, a date, and a
+      consequence; whether the commitment is split into its reversible and
+      irreversible parts; and whether the downside is described concretely
+      enough that someone could picture living through it — and where any
+      of these is missing, says so and names who has to supply it, rather
+      than drafting one on the recommendation's behalf.
 
   - name: "A named owner, not a team"
     description: >-

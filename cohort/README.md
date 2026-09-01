@@ -74,5 +74,5 @@ has done the exact thing the skill's own rules forbid.
 
 Pilot. Not yet run with a real cohort. If it holds up, the same shape —
 a decision brief instead of a code fixture, recurring sessions, a
-skill-run capstone — is the template for turning the remaining two books
-in the series into their own cohorts.
+skill-run capstone — is the template the other three books in the series now follow for
+their own cohorts.
