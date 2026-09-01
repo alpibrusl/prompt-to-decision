@@ -29,39 +29,40 @@ The path from here to a decision runs through six links: an objective, then the 
 The objective the agent optimized for might not be the one you actually hold — Chapter 2. The alternatives it considered might not include the one that matters most, which is frequently doing nothing at all — Chapters 3 and 4. The trade-offs it made, and whose preferences got built into "optimal," might not be yours — Chapters 5 and 6. And even a recommendation that survives all of that still has to be sized against what happens if it's wrong, which is a question with its own discipline — Chapters 7 through 10.
 
 <div style="margin:1.6rem 0;">
-<svg viewBox="0 0 660 135" width="100%" style="display:block;" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 660 140" width="100%" style="display:block;" xmlns="http://www.w3.org/2000/svg">
 <defs>
-<marker id="ptd-arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-<path d="M0,0 L6,3 L0,6 Z" fill="#666"/>
+<marker id="ptd1-arrow" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto">
+<path d="M0,0 L6,3 L0,6" fill="none" stroke="#1a1a1a" stroke-width="1.1"/>
 </marker>
 </defs>
-<rect x="10" y="30" width="95" height="60" fill="#f5f5f5" stroke="#999" stroke-width="1.5"/>
-<text x="57" y="65" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" fill="#1a1a1a">OBJECTIVE</text>
-<rect x="119" y="30" width="95" height="60" fill="#f5f5f5" stroke="#999" stroke-width="1.5"/>
-<text x="166" y="65" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="9.5" fill="#1a1a1a">ALTERNATIVES</text>
-<rect x="228" y="30" width="95" height="60" fill="#f5f5f5" stroke="#999" stroke-width="1.5"/>
-<text x="275" y="58" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="9.5" fill="#1a1a1a">EVIDENCE &amp;</text>
-<text x="275" y="70" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="9.5" fill="#1a1a1a">ASSUMPTIONS</text>
-<rect x="337" y="30" width="95" height="60" fill="#f5f5f5" stroke="#999" stroke-width="1.5"/>
-<text x="384" y="65" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="9.5" fill="#1a1a1a">TRADE-OFFS</text>
-<rect x="446" y="30" width="95" height="60" fill="#f5f5f5" stroke="#999" stroke-width="1.5"/>
-<text x="493" y="58" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="9.5" fill="#1a1a1a">RECOMMEN-</text>
-<text x="493" y="70" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="9.5" fill="#1a1a1a">DATION</text>
-<rect x="555" y="30" width="95" height="60" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.5"/>
-<text x="602" y="65" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#fff">DECISION</text>
-<line x1="107" y1="60" x2="117" y2="60" stroke="#666" stroke-width="1.5" marker-end="url(#ptd-arrow)"/>
-<line x1="216" y1="60" x2="226" y2="60" stroke="#666" stroke-width="1.5" marker-end="url(#ptd-arrow)"/>
-<line x1="325" y1="60" x2="335" y2="60" stroke="#666" stroke-width="1.5" marker-end="url(#ptd-arrow)"/>
-<line x1="434" y1="60" x2="444" y2="60" stroke="#666" stroke-width="1.5" marker-end="url(#ptd-arrow)"/>
-<line x1="543" y1="60" x2="553" y2="60" stroke="#666" stroke-width="1.5" marker-end="url(#ptd-arrow)"/>
-<line x1="10" y1="100" x2="541" y2="100" stroke="#999" stroke-width="1"/>
-<line x1="10" y1="96" x2="10" y2="104" stroke="#999" stroke-width="1"/>
-<line x1="541" y1="96" x2="541" y2="104" stroke="#999" stroke-width="1"/>
-<text x="275" y="118" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" font-style="italic" fill="#444">the agent can produce this</text>
-<line x1="555" y1="100" x2="650" y2="100" stroke="#999" stroke-width="1"/>
-<line x1="555" y1="96" x2="555" y2="104" stroke="#999" stroke-width="1"/>
-<line x1="650" y1="96" x2="650" y2="104" stroke="#999" stroke-width="1"/>
-<text x="602" y="118" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" font-weight="600" fill="#1a1a1a">only you can do this</text>
+<rect x="10" y="30" width="95" height="60" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="57" y="65" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="13" font-weight="600" fill="#1a1a1a">OBJECTIVE</text>
+<rect x="119" y="30" width="95" height="60" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="166" y="65" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11.5" font-weight="600" fill="#1a1a1a">ALTERNATIVES</text>
+<rect x="228" y="30" width="95" height="60" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="275" y="58" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#1a1a1a">EVIDENCE &amp;</text>
+<text x="275" y="70" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#1a1a1a">ASSUMPTIONS</text>
+<rect x="337" y="30" width="95" height="60" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="384" y="65" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="12.5" font-weight="600" fill="#1a1a1a">TRADE-OFFS</text>
+<rect x="446" y="30" width="95" height="60" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="493" y="58" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#1a1a1a">RECOMMEN-</text>
+<text x="493" y="70" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="11" font-weight="600" fill="#1a1a1a">DATION</text>
+<rect x="555" y="30" width="95" height="60" fill="none" stroke="#1a1a1a" stroke-width="2.2"/>
+<text x="595" y="65" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="13" font-weight="600" fill="#1a1a1a">DECISION</text>
+<path d="M632,61 L636,66 L644,54" fill="none" stroke="#8a3324" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="107" y1="60" x2="117" y2="60" stroke="#1a1a1a" stroke-width="1.1" marker-end="url(#ptd1-arrow)"/>
+<line x1="216" y1="60" x2="226" y2="60" stroke="#1a1a1a" stroke-width="1.1" marker-end="url(#ptd1-arrow)"/>
+<line x1="325" y1="60" x2="335" y2="60" stroke="#1a1a1a" stroke-width="1.1" marker-end="url(#ptd1-arrow)"/>
+<line x1="434" y1="60" x2="444" y2="60" stroke="#1a1a1a" stroke-width="1.1" marker-end="url(#ptd1-arrow)"/>
+<line x1="543" y1="60" x2="553" y2="60" stroke="#1a1a1a" stroke-width="1.1" marker-end="url(#ptd1-arrow)"/>
+<line x1="10" y1="102" x2="541" y2="102" stroke="#666" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="10" y1="98" x2="10" y2="106" stroke="#666" stroke-width="1"/>
+<line x1="541" y1="98" x2="541" y2="106" stroke="#666" stroke-width="1"/>
+<text x="275" y="122" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" font-style="italic" fill="#444">the agent can produce this</text>
+<line x1="555" y1="102" x2="650" y2="102" stroke="#666" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="555" y1="98" x2="555" y2="106" stroke="#666" stroke-width="1"/>
+<line x1="650" y1="98" x2="650" y2="106" stroke="#666" stroke-width="1"/>
+<text x="602" y="122" text-anchor="middle" font-family="EB Garamond, Georgia, serif" font-size="10.5" font-style="italic" fill="#444">only you can do this</text>
 </svg>
 </div>
 
