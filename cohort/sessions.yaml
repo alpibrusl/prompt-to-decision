@@ -193,7 +193,7 @@ sessions:
     chapters: [15, 16]
     chapter_titles:
       - "The Minimum Bar"
-      - "A Note from the Author"
+      - "A Note from the Human Author"
     in_session: >-
       Each student runs the book's own verify-decision skill against a real
       recommendation — their own if they have one in flight, the fixture's
