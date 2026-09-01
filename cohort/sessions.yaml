@@ -1,0 +1,209 @@
+sessions:
+  - number: 1
+    title: "The Handoff"
+    chapters: [1, 2]
+    chapter_titles: ["The Handoff", "What Are You Actually Trying to Achieve?"]
+    in_session: >-
+      Live walk of Ledgerly's chapter-1 recommendation — "hire six, expand
+      into Germany" — tracing the six-link chain from objective to decision
+      and naming exactly where a recommendation stops and a decision starts.
+      Then, live: a volunteer states, out loud, the objective behind a real
+      recommendation they actually received recently — from an agent or a
+      person — and the group tests whether it survives being said in one
+      precise sentence.
+    exercise:
+      name: "Recommendation or decision?"
+      description: >-
+        Given a short real recommendation a student has actually received
+        recently, students map it onto the six-link chain (objective,
+        alternatives, evidence, trade-offs, recommendation, decision) and
+        mark, honestly, which links were actually stated and which were
+        silently assumed.
+    checkpoint: >-
+      Can name, unprompted, one link in their own example's chain that was
+      assumed rather than actually stated, using their own example as
+      evidence.
+
+  - number: 2
+    title: "Framing the Decision"
+    chapters: [3, 4]
+    chapter_titles: ["What Are the Alternatives?", "What Happens If You Do Nothing?"]
+    in_session: >-
+      First cold read of the fixture, the Germany-expansion decision brief,
+      handed out with no framing beyond "this just landed on your desk." As
+      a group: list exactly what's being compared, then ask what's missing —
+      specifically the two categories Chapter 3 names, a cheaper trial of
+      the same idea and a different use of the same resources, and the
+      status quo Chapter 4 names as its own recurring blind spot.
+    exercise:
+      name: "Widen the comparison"
+      description: >-
+        Score the brief's missing alternatives — staying domestic and
+        reinvesting in the feature that already tested well, and a lean
+        pilot before the full hire-and-lease commitment — on the same
+        objective and the same evidence the brief already provides. Don't
+        assume either is safe; actually score it.
+      fixture_ref: "fixture/generate-brief.sh"
+    checkpoint: >-
+      A written score for the status quo, on the same objective as the
+      brief's recommended option — not asserted safe by default.
+    facilitator_notes: >-
+      Run `fixture/generate-brief.sh` fresh right before the session. Most
+      groups initially defend "Germany vs. France" as a reasonable
+      comparison on its own terms — let that stand for a minute, then ask
+      specifically what a third row in the table would need to say; that's
+      usually what gets the domestic option named without it being handed
+      to them.
+
+  - number: 3
+    title: "The Curve and Whose It Is"
+    chapters: [5, 6]
+    chapter_titles: ["What Are You Optimizing For?", "Whose Preferences Are These?"]
+    in_session: >-
+      Second pass on the same brief: find the single point on the
+      growth-versus-runway curve it actually shows — six hires, full speed —
+      and have the group sketch two more points from the brief's own
+      numbers. Then read the "Team Sentiment" section closely and ask whose
+      weighting the recommended point actually reflects, given that it
+      hints at a real disagreement between the investor and the founders
+      without ever naming which side won.
+    exercise:
+      name: "Find the missing curve"
+      description: >-
+        Using only the brief's own financial-model numbers, produce a
+        three-point growth-versus-runway table (three hires, six, nine),
+        then write one sentence naming whose risk tolerance the brief's
+        recommended point actually reflects — not "the company's."
+      fixture_ref: "fixture/generate-brief.sh"
+    checkpoint: >-
+      A three-point table plus one sentence naming a specific person or
+      role, not an abstraction, as the source of the weighting used.
+
+  - number: 4
+    title: "Sizing the Commitment"
+    chapters: [7, 8]
+    chapter_titles: ["What Would Change Your Mind?", "Reversible and Irreversible"]
+    in_session: >-
+      Tabletop, in pairs. One plays a founder three months into the German
+      launch with modest, ambiguous revenue; the other has to say "normal or
+      failing" using nothing but a threshold that was supposedly set in
+      advance — and discovers, live, how hard that is without a real number
+      on record. Then, on the board: split "hire six, sign the lease" into
+      its actually-reversible parts and its actually-irreversible ones.
+    exercise:
+      name: "Write the threshold, split the bundle"
+      description: >-
+        For a real decision the student is actually facing — or the
+        fixture's expansion if they have none of their own in flight — set
+        a specific, dated threshold with a stated consequence, then split
+        the commitment into what's reversible if wrong and what isn't.
+    checkpoint: >-
+      A threshold with a number, a date, and a named consequence — not "we
+      will keep an eye on it" — plus a two-column reversible/irreversible
+      split of the same decision.
+
+  - number: 5
+    title: "The Shape of the Downside"
+    chapters: [9, 10]
+    chapter_titles: ["The Cost of Being Wrong", "What Do You Learn by Waiting?"]
+    in_session: >-
+      Live: take the brief's own "60% chance of success" and press the group
+      to describe, concretely, what the other 40% actually looks like to
+      live through — not the euro figure, the situation a founder would
+      actually be in. Then ask what a smaller, cheaper test — a single
+      remote salesperson working German leads for six weeks — would need to
+      show to count as a real green light or a real red one.
+    exercise:
+      name: "Size the downside, price the pilot"
+      description: >-
+        Using the brief's own burn and runway numbers, write two concrete
+        paragraphs — the survivable-but-painful version of the failure, and
+        the genuinely dangerous one — then propose one small, time-boxed
+        pilot with a stated go/no-go line, set before it would run.
+      fixture_ref: "fixture/generate-brief.sh"
+    checkpoint: >-
+      Two concrete downside paragraphs, distinct from each other, plus a
+      pilot with an explicit go/no-go line — not a probability standing
+      alone.
+
+  - number: 6
+    title: "Beyond the Number"
+    chapters: [11, 12]
+    chapter_titles: ["The Second-Order Effect", "Who Bears the Risk?"]
+    in_session: >-
+      Group brainstorm in the three categories Chapter 11 names — capacity
+      that isn't headcount, quality for people not part of the plan, what
+      the plan implicitly promises — applied to a real decision each student
+      is actually facing, not the fixture. Then: for that same decision,
+      name specifically who bears the cost if it goes wrong, and whether
+      the person pushing hardest for it is the same person who'd absorb it.
+    exercise:
+      name: "Second-order effects and who bears them"
+      description: >-
+        For a real decision the student is actually facing — a hire, a
+        vendor switch, a pricing change, anything with real stakes — name
+        at least one second-order effect in each of Chapter 11's three
+        categories, then name specifically who bears the cost if it goes
+        wrong and whether that's the same person advocating for it.
+    checkpoint: >-
+      One second-order effect the student hadn't already considered before
+      this session, plus a named risk-bearer that isn't "the company."
+
+  - number: 7
+    title: "Working With the Agent"
+    chapters: [13, 14]
+    chapter_titles: ["When the Agent Disagrees With You", "Who Owns the Decision?"]
+    in_session: >-
+      Live, with a real agent: one student pushes back on a real
+      recommendation the agent just produced, and the group watches whether
+      the revision tracks genuine new information or just tracks the fact
+      that someone expressed doubt. Then, for that same recommendation: name
+      one specific person, not a team, who would actually own the decision
+      and be exposed to what happens if it's wrong.
+    exercise:
+      name: "Push back, then name the owner"
+      description: >-
+        Take a live recommendation from an agent, push back on it with a
+        real, specific objection, and write one line judging whether the
+        agent's response reflected the substance of the objection or just
+        its presence — then name a specific person who owns the decision
+        and explain why they, not someone else, are the one exposed to the
+        outcome.
+    checkpoint: >-
+      A one-line verdict on whether the pushback moved the recommendation
+      for a real reason, plus one named owner who is not "the team."
+
+  - number: 8
+    title: "The Minimum Bar"
+    chapters: [15, 16]
+    chapter_titles:
+      - "The Minimum Bar"
+      - "A Note from the Author"
+    in_session: >-
+      Each student runs the book's own verify-decision skill against a real
+      recommendation — their own if they have one in flight, the fixture's
+      decision brief if not — and presents the result to the group: what
+      was actually stated versus only assumed, using the skill's own
+      Found / Not found / Ambiguous distinctions, and which soundness
+      questions still need a named human's answer rather than the skill's.
+    checkpoint: >-
+      A specific, honest presence finding shared with the group — not every
+      item marked Found, and not every item marked Ambiguous either — plus
+      at least one soundness question the student can't yet answer
+      themselves.
+    capstone: true
+    deliverable: >-
+      A completed check against the rubric, run with the
+      prompt-to-decision/skills/verify-decision skill on something real —
+      reporting presence honestly for every checklist item and handing back
+      every soundness question to a specific, named human, never resolving
+      one on the skill's own initiative.
+    facilitator_notes: >-
+      The skill's own rule — never resolve a soundness question yourself,
+      even with a plausible-sounding answer — is the thing to watch for
+      being quietly broken. A student who's spent seven sessions getting
+      good at this reasoning will be tempted to answer "would the affected
+      people recognize this objective as theirs" on the recommendation's
+      behalf instead of actually asking them. That's the exact failure
+      Chapter 15 and the skill both name; worth calling out by name when it
+      happens rather than just marking the finding wrong.

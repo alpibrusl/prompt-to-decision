@@ -2,6 +2,10 @@
 build/
 GLOSSARY.md
 
+# The cohort's generated decision brief -- fixture/generate-brief.sh is the source.
+cohort/build/
+cohort/fixture/decision-brief.md
+
 # Python
 __pycache__/
 *.pyc

@@ -1,0 +1,29 @@
+dimensions:
+  - name: "Presence, checked honestly"
+    description: >-
+      Each checklist item is reported as actually stated somewhere explicit,
+      not inferred from context — "the objective is implied but never
+      written down" is a real finding, not rounded up to Found because a
+      plausible objective is easy to guess.
+
+  - name: "Soundness handed to a human, not resolved by the skill"
+    description: >-
+      For every item, the soundness question — is this the right objective,
+      the right threshold, the right owner — is asked of a specific named
+      person, never answered on the recommendation's behalf, even when a
+      confident-sounding answer would be easy to produce.
+
+  - name: "Stakes actually sized"
+    description: >-
+      The threshold has a number, a date, and a stated consequence; the
+      commitment is split into its reversible and irreversible parts, each
+      held to its own bar; the downside is described concretely enough that
+      someone could picture living through it, not left as a bare
+      probability.
+
+  - name: "A named owner, not a team"
+    description: >-
+      One person or a small, specific group is identified as accountable
+      for the outcome, with real authority to act on the threshold and real
+      exposure to what happens if it's wrong — not "the team," "we," or
+      "leadership."
