@@ -16,7 +16,7 @@ Before committing to anything this book has helped you stress-test, name the own
 
 ## What ownership actually requires
 
-Owning a decision means three concrete things, and it's worth checking that whoever is named as the owner actually has all three, not just the title. They need the authority to act on the threshold without needing to re-litigate the whole decision when it's crossed. They need to actually be watching for it — not a founder so buried in the day-to-day of running the new market that the eight-week check quietly slips. And they need to be someone the consequences genuinely reach, not a person insulated enough from the outcome that acting decisively on bad news costs them little either way.
+Owning a decision means three concrete things, and it's worth checking that whoever is named as the owner actually has all three, not just the title. They need the authority to act on the threshold without needing to re-litigate the whole decision when it's crossed. They need to actually be watching for it — not a founder so buried in the day-to-day of running the new market that the month-four check quietly slips. And they need to be someone the consequences genuinely reach, not a person insulated enough from the outcome that acting decisively on bad news costs them little either way.
 
 A well-verified recommendation, run through every earlier chapter in this book, still isn't a decision until someone with all three of those things actually makes the call.
 

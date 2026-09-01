@@ -7,6 +7,6 @@ session_length_hours: 2
 cohort_size_min: 8
 cohort_size_max: 15
 format: "live, synchronous"
-prerequisite: "none"
+prerequisite: "An agent that can load a SKILL.md file (Claude Code or equivalent), for the live pushback in Session 7 and the capstone in Session 8. Nothing else."
 sessions_file: "sessions.yaml"
 rubric_file: "rubric.yaml"

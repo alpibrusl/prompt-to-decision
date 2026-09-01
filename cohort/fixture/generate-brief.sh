@@ -21,17 +21,27 @@
 # It is deliberately fully present-tense and confident throughout — nothing
 # in the memo itself flags what it's missing. Finding the gaps is the point.
 #
-# Usage: fixture/generate-brief.sh [output-path]   (default: ./decision-brief.md)
+# Usage: fixture/generate-brief.sh [output-path] [--force]
+#        (default output: decision-brief.md next to this script, which
+#        .gitignore already covers; --force overwrites an existing file)
 #
 # Run this fresh before each session that uses it. The generated file is
 # disposable and gitignored; this script is the source.
 
 set -euo pipefail
 
-OUT="${1:-./decision-brief.md}"
+HERE="$(cd "$(dirname "$0")" && pwd)"
+OUT="${HERE}/decision-brief.md"
+FORCE=0
+for arg in "$@"; do
+  case "$arg" in
+    --force|-f) FORCE=1 ;;
+    *) OUT="$arg" ;;
+  esac
+done
 
-if [ -e "$OUT" ]; then
-  echo "error: $OUT already exists — remove it or pass a different output path" >&2
+if [ -e "$OUT" ] && [ "$FORCE" -ne 1 ]; then
+  echo "error: $OUT already exists — pass --force to overwrite, or a different output path" >&2
   exit 1
 fi
 
@@ -40,7 +50,7 @@ GENERATED_AT="$(date -u +"%Y-%m-%d")"
 cat > "$OUT" <<EOF
 # Ledgerly — Germany Expansion Recommendation
 
-**Prepared for:** Founders & Board
+**Prepared for:** Marta Ruiz (CEO), Tomas Keller (CTO), Priya Nair (Northlane Capital, board)
 **Prepared by:** Growth & Ops
 **Date:** ${GENERATED_AT}
 
@@ -61,25 +71,29 @@ confidence this is the stronger of the two.
 ## The Plan
 
 Hire six people over six weeks — two sales, two engineering, one support, one
-country lead. Sign a two-year office lease in Berlin (broker quote on file,
+country lead. Sign a five-year office lease in Berlin (broker quote on file,
 not attached here). Target launch is next quarter, all six roles filled and
 the lease signed before the German go-live.
 
 ## Financial Model
 
-Current burn: approximately €40,000/month. Projected burn once the six new
+Current burn: approximately €40,000/month (about €130,000/month in costs
+against about €90,000/month in revenue). Projected burn once the six new
 hires are fully ramped: approximately €79,000/month. Against current runway
-of twelve months, this plan is fully fundable through the next two quarters,
-after which Ledgerly will need to raise its next round regardless of how the
-German launch performs.
+of twelve months, this plan is fundable through roughly the next two
+quarters, after which Ledgerly will need to raise its next round regardless
+of how the German launch performs.
+
+Projected German revenue with the full six-person team: €15,000 monthly
+recurring by month four, €40,000 by month twelve.
 
 We estimate roughly a 60% chance the German market performs in line with
 projections within the first two quarters.
 
 ## Team Sentiment
 
-The investor is enthusiastic about the growth trajectory this unlocks. The
-founders are somewhat more cautious about the pace, but no significant
+Priya is enthusiastic about the growth trajectory this unlocks. Marta and
+Tomas are somewhat more cautious about the pace, but no significant
 objections were raised in the founders' meeting where this plan was reviewed.
 
 ## Next Steps

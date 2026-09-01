@@ -20,7 +20,7 @@ A **recommendation** is best understood as an optimization result: the best opti
 
 A **decision** is different in kind, not just in degree. It is a commitment made under uncertainty, with consequences that land on actual people — including, always, the option of doing nothing, which is a decision too, not the absence of one. The agent can hand you a recommendation. It cannot hand you a decision, because a decision requires something a recommendation doesn't: someone accountable for what happens if it's wrong.
 
-Hire six people and expand into Germany is a recommendation. Actually doing it — signing the offers, opening the office, spending down four months of runway on a bet — is a decision, made by whoever is accountable for what happens next. The agent got you to the first. Nothing about reaching it gets you to the second automatically.
+Hire six people and expand into Germany is a recommendation. Actually doing it — signing the offers, opening the office, spending down half of twelve months of runway on a bet — is a decision, made by whoever is accountable for what happens next. The agent got you to the first. Nothing about reaching it gets you to the second automatically.
 
 ## The chain, named once
 
@@ -101,8 +101,8 @@ You may already be holding one — the agent's answer to "should we do this" —
 | 1 | Is the objective the agent optimized for actually the one you hold, or one that was assumed for you? | Chapter 2 |
 | 2 | Did it seriously consider doing nothing, or only compare options that all involve acting? | Chapter 4 |
 | 3 | Whose preferences are built into what counts as "best" here — yours, or someone else's? | Chapter 6 |
-| 4 | Is this decision reversible if it turns out wrong, or is it a door that closes behind you? | Chapter 8 |
-| 5 | What would have to happen for you to conclude this was a mistake — and would you actually notice? | Chapter 7 |
+| 4 | What would have to happen for you to conclude this was a mistake — and would you actually notice? | Chapter 7 |
+| 5 | Is this decision reversible if it turns out wrong, or is it a door that closes behind you? | Chapter 8 |
 | 6 | Could you learn something decisive by waiting, or by testing on a smaller scale first? | Chapter 10 |
 | 7 | If this goes wrong, who actually bears the cost — and is it the same person making the call? | Chapter 12 |
 | 8 | Who owns this decision, and is that the same person the consequences will land on? | Chapter 14 |
