@@ -26,6 +26,7 @@ concepts:
       ones considered, against the objective the agent understood, given
       the evidence it had — whether or not an explicit optimization
       actually produced it.
+    analogy: "The winner of a race whose entrants somebody else chose."
     defined_in: 1
 
   - term: "decision"
@@ -41,6 +42,7 @@ concepts:
       What would have happened if you had chosen differently. Never
       directly observable — only the world that actually occurred is.
       Every decision is implicitly a bet against one.
+    analogy: "The other road at the fork: describable in detail, never drivable."
     depends_on: ["decision"]
     defined_in: 1
     scan: true
@@ -50,6 +52,9 @@ concepts:
     definition: >-
       The goal a recommendation is actually optimized against — the thing
       "best" secretly means in "here's the best option."
+    analogy: >-
+      The finish line the race was actually run toward — not always the one
+      you would have drawn.
     depends_on: ["recommendation"]
     defined_in: 2
 
@@ -59,6 +64,7 @@ concepts:
       One of the specific options actually being weighed against each
       other in a recommendation — not the same thing as every option
       genuinely available.
+    analogy: "The names on the shortlist, not the names in the field."
     depends_on: ["recommendation"]
     defined_in: 3
 
@@ -68,6 +74,7 @@ concepts:
       The alternative of continuing what's already happening, unchanged —
       the option nobody has to design, propose, or defend, because it's
       simply what continues by default if no decision gets made.
+    analogy: "The option nobody writes on the whiteboard, which wins when the meeting ends."
     depends_on: ["alternative"]
     defined_in: 4
 
@@ -77,6 +84,7 @@ concepts:
       A point where advancing one objective costs you ground on another —
       a genuine choice, where more of one thing really does mean less of
       another.
+    analogy: "A blanket too short for the bed: cover your feet, uncover your shoulders."
     depends_on: ["objective"]
     defined_in: 5
 
@@ -86,6 +94,9 @@ concepts:
       The actual, precise thing being maximized once every competing goal
       has been given a weight — a values statement wearing a number's
       clothes, whether or not anyone agreed to the weighting.
+    analogy: >-
+      The dial settings behind the word "best" — someone chose them, whether
+      or not they said so.
     depends_on: ["trade-off"]
     defined_in: 6
 
@@ -96,6 +107,7 @@ concepts:
       reassessment, stopping, or changing course — a number or an event
       named in advance, not a vague sense that things aren't going well,
       and not proof the original decision was irrational if it's crossed.
+    analogy: "A tripwire you set yourself, before you need it."
     depends_on: ["decision"]
     defined_in: 7
 
@@ -105,6 +117,7 @@ concepts:
     definition: >-
       How much of a decision's cost you get back if it turns out to be
       wrong and you change course.
+    analogy: "A door: some you can walk back through, some lock behind you."
     depends_on: ["decision"]
     defined_in: 8
     scan: true
@@ -115,6 +128,7 @@ concepts:
       When the upside and downside of a decision aren't mirror images of
       each other — when being right and being wrong don't cost and pay the
       same amount, even at identical odds.
+    analogy: "A coin flip where heads pays a hundred euros and tails costs the house."
     depends_on: ["decision"]
     defined_in: 9
 
@@ -123,6 +137,7 @@ concepts:
     definition: >-
       What a decision is worth improving by, if you delay it just long
       enough to learn something that would actually change it.
+    analogy: "The price of a second opinion — worth paying only if you would act on it."
     depends_on: ["decision threshold"]
     defined_in: 10
 
@@ -132,6 +147,7 @@ concepts:
       A consequence that follows from the direct result of a decision,
       rather than from the decision itself — the kind of thing a financial
       or analytical model was never built to capture.
+    analogy: "Not the move, the thing the move makes someone else do."
     depends_on: ["decision"]
     defined_in: 11
 
@@ -140,6 +156,7 @@ concepts:
     definition: >-
       A cost of a decision that lands on someone other than the person
       making it.
+    analogy: "Noise from your party: real, expensive, and paid by the neighbours."
     depends_on: ["decision"]
     defined_in: 12
     scan: true
@@ -150,6 +167,7 @@ concepts:
       Being the person the consequences of a decision actually land on —
       not the person who proposed, computed, or recommended it, but the
       one who has to live with the outcome and answer for it.
+    analogy: "The name on the door, not the name on the memo."
     depends_on: ["decision"]
     defined_in: 14
     scan: true
