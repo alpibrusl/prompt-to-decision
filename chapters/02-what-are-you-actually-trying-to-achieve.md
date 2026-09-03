@@ -34,7 +34,7 @@ The core check. If the stated objective is vague enough that almost anything wou
 
 > "If the objective were 'extend runway' instead of 'maximize growth,' would this recommendation change? Show me what it would look like."
 
-Forces the sensitivity of the recommendation to its objective into the open, the way a load-bearing assumption gets tested in the third book of this series.
+Forces the sensitivity of the recommendation to its objective into the open, the way a load-bearing assumption gets tested in *Prompt to Ledger*.
 
 > "Which objective would each person with a stake in this decision — founders, the board, whoever it affects — actually state, if you asked them separately rather than assuming they agree?"
 

@@ -1,6 +1,6 @@
 # The Handoff
 
-Ledgerly — an invoicing tool for freelancers, and this book's running example — has eleven months of runway. The new invoicing-automation feature tested well — a real, defensible lift, checked the way the second book in this series says it should be. The production system, the first book's whole subject, can handle ten times the current traffic without breaking a sweat. Every number checks out.
+Ledgerly — an invoicing tool for freelancers, and this book's running example — has eleven months of runway. The new invoicing-automation feature tested well — a real, defensible lift, checked the way *Prompt to Evidence* says it should be. The production system, the first book's whole subject, can handle ten times the current traffic without breaking a sweat. Every number checks out.
 
 The agent's recommendation: hire six people, and expand into Germany.
 
@@ -68,7 +68,7 @@ The objective the agent optimized for might not be the one you actually hold —
 
 ## What you're deciding against, whether you name it or not
 
-Every decision is implicitly a bet against a **counterfactual** — what would have happened if you'd chosen differently. This term comes from the second book in this series, where it named the invisible alternative history a measurement is really being compared against. It means the same thing here: if Ledgerly expands into Germany and it works, you'll never actually know what would have happened if it hadn't — a competitor might have taken that opening, or the extra runway might have bought time for a better opportunity, or nothing much would have changed at all. The counterfactual never shows up to confirm or deny itself. You commit anyway, which is precisely what makes this a decision instead of a calculation.
+Every decision is implicitly a bet against a **counterfactual** — what would have happened if you'd chosen differently. This term comes from *Prompt to Evidence*, where it named the invisible alternative history a measurement is really being compared against. It means the same thing here: if Ledgerly expands into Germany and it works, you'll never actually know what would have happened if it hadn't — a competitor might have taken that opening, or the extra runway might have bought time for a better opportunity, or nothing much would have changed at all. The counterfactual never shows up to confirm or deny itself. You commit anyway, which is precisely what makes this a decision instead of a calculation.
 
 ## Why nobody told you this
 
