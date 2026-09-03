@@ -34,23 +34,23 @@ chapters:
   # convention in the other three volumes' book.yaml. The Markdown source
   # keeps its own plain H1.
   # Part I — The Ground
-  - { file: chapters/01-the-handoff.md,                          title: "Chapter 1 — The Handoff" }
+  - { file: chapters/01-the-handoff.md,                          title: "Chapter 1 — The Handoff", part: "Part I — The Ground" }
   - { file: chapters/02-what-are-you-actually-trying-to-achieve.md, title: "Chapter 2 — What Are You Actually Trying to Achieve?" }
   # Part II — Framing the Decision
-  - { file: chapters/03-what-are-the-alternatives.md,            title: "Chapter 3 — What Are the Alternatives?" }
+  - { file: chapters/03-what-are-the-alternatives.md,            title: "Chapter 3 — What Are the Alternatives?", part: "Part II — Framing the Decision" }
   - { file: chapters/04-what-happens-if-you-do-nothing.md,       title: "Chapter 4 — What Happens If You Do Nothing?" }
   - { file: chapters/05-what-are-you-optimizing-for.md,          title: "Chapter 5 — What Are You Optimizing For?" }
   - { file: chapters/06-whose-preferences-are-these.md,          title: "Chapter 6 — Whose Preferences Are These?" }
   # Part III — Sizing the Stakes
-  - { file: chapters/07-what-would-change-your-mind.md,          title: "Chapter 7 — What Would Change Your Mind?" }
+  - { file: chapters/07-what-would-change-your-mind.md,          title: "Chapter 7 — What Would Change Your Mind?", part: "Part III — Sizing the Stakes" }
   - { file: chapters/08-reversible-and-irreversible.md,          title: "Chapter 8 — Reversible and Irreversible" }
   - { file: chapters/09-the-cost-of-being-wrong.md,              title: "Chapter 9 — The Cost of Being Wrong" }
   - { file: chapters/10-what-do-you-learn-by-waiting.md,         title: "Chapter 10 — What Do You Learn by Waiting?" }
   # Part IV — Beyond the Decision
-  - { file: chapters/11-the-second-order-effect.md,              title: "Chapter 11 — The Second-Order Effect" }
+  - { file: chapters/11-the-second-order-effect.md,              title: "Chapter 11 — The Second-Order Effect", part: "Part IV — Beyond the Decision" }
   - { file: chapters/12-who-bears-the-risk.md,                   title: "Chapter 12 — Who Bears the Risk?" }
   # Part V — Working With the Agent
-  - { file: chapters/13-when-the-agent-disagrees-with-you.md,    title: "Chapter 13 — When the Agent Disagrees With You" }
+  - { file: chapters/13-when-the-agent-disagrees-with-you.md,    title: "Chapter 13 — When the Agent Disagrees With You", part: "Part V — Working With the Agent" }
   - { file: chapters/14-who-owns-the-decision.md,                title: "Chapter 14 — Who Owns the Decision?" }
   - { file: chapters/15-the-minimum-bar.md,                      title: "Chapter 15 — The Minimum Bar" }
   # Afterword. Deliberately left unnumbered, like the equivalent chapter in
