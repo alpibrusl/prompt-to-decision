@@ -2,7 +2,7 @@
 
 This chapter is a checklist and an argument about it.
 
-The argument first, because a checklist you don't believe in is a checklist you'll skip the day it actually matters.
+The argument first because a checklist you don't believe in is a checklist you'll skip the day it actually matters.
 
 ## What "ready to decide" means
 
@@ -30,13 +30,13 @@ Before a recommendation becomes a decision. Grouped by what each part protects a
 - [ ] The downside has been sized concretely, not just as a probability — what the worst realistic case actually looks like to live through (Chapter 9).
 - [ ] You've asked what waiting, or a smaller test, would actually teach you before committing to the full-scale version (Chapter 10).
 
-### Knowing what you're actually committing to
+### Knowing what you're committing to
 
 - [ ] Second-order effects — capacity, attention, quality for people not part of the plan — have been named, even if only qualitatively (Chapter 11).
 - [ ] You know who bears the risk if this goes wrong, and it isn't only the people most insulated from it who are pushing for it (Chapter 12).
 - [ ] The recommendation has survived a real challenge — pushback that tested whether it was load-bearing — not just the first version nobody argued with (Chapter 13).
 
-### Before you actually act
+### Before you act
 
 - [ ] One person or a small, named group owns this decision, with the authority to act on the threshold when it arrives (Chapter 14).
 - [ ] That owner is someone the consequences genuinely reach, not someone insulated enough from the outcome to decide without weight (Chapter 14).
@@ -57,7 +57,7 @@ An afternoon, most of it just asking.
 
 Chapter 1 opened with a recommendation that had already passed every earlier test in this series: working code, honestly tested evidence, a properly built financial model. Hire six people. Expand into Germany. Every number checked out, and the question the chapter actually asked was whether that was enough.
 
-It wasn't, and getting from there to an actual decision took the rest of this book. Chapter 2 found that "growth" was never a stated objective — it was assumed. Chapters 3 and 4 found that staying domestic and reinvesting in what already worked had never been scored at all. Chapters 5 and 6 found that the plan resolved a real trade-off between growth and runway using a weighting that belonged to nobody in particular. Chapter 7 gave the plan a threshold it didn't have. Chapter 8 split hiring, which is mostly reversible from the company's side, from the lease, which mostly isn't, and found they'd been treated as one decision moving at one speed. Chapter 9 sized what six months of runway instead of twelve would actually mean to live through. Chapter 12 asked who would bear that cost, and found it wasn't evenly shared between the people most eager to move fast and the people who'd actually absorb it if the bet didn't pay off.
+It wasn't, and getting from there to an actual decision took the rest of this book. Chapter 2 found that "growth" was never a stated objective — it was assumed. Chapters 3 and 4 found that staying domestic and reinvesting in what already worked had never been scored at all. Chapters 5 and 6 found that the plan resolved a real trade-off between growth and runway using a weighting that belonged to nobody in particular. Chapter 7 gave the plan a threshold it didn't have. Chapter 8 split hiring, which is mostly reversible from the company's side, from the lease, which mostly isn't, and found they'd been treated as one decision moving at one speed. Chapter 9 sized what three months of runway instead of eleven would actually mean to live through. Chapter 12 asked who would bear that cost, and found it wasn't evenly shared between the people most eager to move fast and the people who'd actually absorb it if the bet didn't pay off.
 
 None of that changed the underlying facts. The code still worked. The feature still tested well. The model was still honest. What changed is that a recommendation which had already earned its way through three books of verification finally became something a specific, named person could actually decide — with a threshold, a sequenced commitment, and a clear-eyed view of what being wrong would cost and who it would cost it to.
 

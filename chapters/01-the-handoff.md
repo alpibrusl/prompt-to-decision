@@ -1,6 +1,6 @@
 # The Handoff
 
-Ledgerly has twelve months of runway. The new invoicing-automation feature tested well — a real, defensible lift, checked the way the second book in this series says it should be. The production system, the first book's whole subject, can handle ten times the current traffic without breaking a sweat. Every number checks out.
+Ledgerly — an invoicing tool for freelancers, and this book's running example — has eleven months of runway. The new invoicing-automation feature tested well — a real, defensible lift, checked the way the second book in this series says it should be. The production system, the first book's whole subject, can handle ten times the current traffic without breaking a sweat. Every number checks out.
 
 The agent's recommendation: hire six people, and expand into Germany.
 
@@ -10,7 +10,7 @@ Should you?
 
 Notice what already happened before this question got asked. The code works — book one's entire subject. The feature's impact is real, not a lucky quarter mistaken for a trend — book two's entire subject. The financial model behind the hiring plan was built properly, tested against known numbers, carrying an honest range — book three's entire subject. All three books in this series could be followed to the letter, and the recommendation sitting in front of you can still be the wrong thing to do.
 
-That is the gap this book is about, and it is worth being precise about why the first three books don't already close it. Each of them teaches you to verify one kind of output — is this code trustworthy, is this analysis sound, is this forecast honest. Verification has a real, checkable answer: you can test it, and either it holds up or it doesn't. What this book is about does not work that way. A recommendation can be built on flawless verification and still be the wrong thing to commit to, because verifying an input is not the same act as deciding what to do about it.
+That is the gap this book is about, and it is worth being precise about why the first three books don't already close it. Each of them teaches you to verify one kind of output — is this code trustworthy, is this analysis sound, is this forecast honest. Verification has a real, checkable answer: you can test it, and either it holds up or it doesn't. What this book is about does not work that way. A recommendation can be built on flawless verification and still be the wrong thing to commit to because verifying an input is not the same act as deciding what to do about it.
 
 ## A recommendation is not a decision
 
@@ -20,11 +20,11 @@ A **recommendation** is best understood as an optimization result: the best opti
 
 A **decision** is different in kind, not just in degree. It is a commitment made under uncertainty, with consequences that land on actual people — including, always, the option of doing nothing, which is a decision too, not the absence of one. The agent can hand you a recommendation. It cannot hand you a decision, because a decision requires something a recommendation doesn't: someone accountable for what happens if it's wrong.
 
-Hire six people and expand into Germany is a recommendation. Actually doing it — signing the offers, opening the office, spending down half of twelve months of runway on a bet — is a decision, made by whoever is accountable for what happens next. The agent got you to the first. Nothing about reaching it gets you to the second automatically.
+Hire six people and expand into Germany is a recommendation. Actually doing it — signing the offers, opening the office, spending down most of eleven months of runway on a bet — is a decision, made by whoever is accountable for what happens next. The agent got you to the first. Nothing about reaching it gets you to the second automatically.
 
 ## The chain, named once
 
-The path from here to a decision runs through six links: an objective, then the alternatives actually considered, then the evidence and assumptions behind each one, then the trade-offs made explicit, then a recommendation, then a decision. Most of this book is one chapter for one link, because that is where the gap between a recommendation and a decision actually opens up — quietly, at a specific joint in the chain, not as a single vague feeling that something's off.
+The path from here to a decision runs through six links: an objective, then the alternatives actually considered, then the evidence and assumptions behind each one, then the costs each option carries elsewhere, made explicit, then a recommendation, then a decision. Most of this book is one chapter for one link because that is where the gap between a recommendation and a decision actually opens up — quietly, at a specific joint in the chain, not as a single vague feeling that something's off.
 
 The objective the agent optimized for might not be the one you actually hold — Chapter 2. The alternatives it considered might not include the one that matters most, which is frequently doing nothing at all — Chapters 3 and 4. The trade-offs it made, and whose preferences got built into "optimal," might not be yours — Chapters 5 and 6. And even a recommendation that survives all of that still has to be sized against what happens if it's wrong, which is a question with its own discipline — Chapters 7 through 10.
 
@@ -74,7 +74,7 @@ Every decision is implicitly a bet against a **counterfactual** — what would h
 
 The same gap runs through this whole series, and it's worth naming here because it explains why this book has to exist as its own subject rather than a chapter tacked onto one of the others.
 
-For as long as reaching a real recommendation required understanding the objective, weighing real alternatives, and owning the trade-offs personally, the recommending and the deciding came bundled together in one person, because there was no other way to get from data to an answer. An agent can now produce the recommendation alone, fast, well-argued, without the person on the other end having done any of the framing that used to come attached to it. That is genuinely useful. It also means the framing — what were we actually trying to achieve, what else did we consider, whose preferences are baked into "best" — has to be taught on purpose now, because it no longer arrives for free.
+For as long as reaching a real recommendation required understanding the objective, weighing real alternatives, and owning the trade-offs personally, the recommending and the deciding came bundled together in one person because there was no other way to get from data to an answer. An agent can now produce the recommendation alone, fast, well-argued, without the person on the other end having done any of the framing that used to come attached to it. That is genuinely useful. It also means the framing — what were we actually trying to achieve, what else did we consider, whose preferences are baked into "best" — has to be taught on purpose now, because it no longer arrives for free.
 
 ## The asymmetry
 

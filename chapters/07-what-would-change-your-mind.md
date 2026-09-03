@@ -6,7 +6,7 @@ Ledgerly's founders decide to expand into Germany. Three months in, German reven
 
 A **decision threshold** is a precommitted condition, set before acting, that triggers reassessment, stopping, or changing course — not a vague sense that things aren't going great, but a number or an event named in advance that everyone involved agreed would count as a signal to stop, change course, or pull back. "If German revenue hasn't reached €15,000 monthly recurring by month four, we pause and reassess" is a decision threshold. "We'll know it if we see it" is not one, and it is the default that fills the space whenever a real one doesn't get set.
 
-Crossing a threshold is not proof the original decision was irrational — it's worth being precise about that, because the two get confused constantly. A threshold is a trigger for reassessment, not a verdict on the decision that set it. A genuinely good decision, made with the honest information available at the time, can still cross its own threshold, because the world was always uncertain and uncertain things sometimes go badly even when you play them well. What a threshold actually protects against is different and narrower: without one, a struggling plan and a plan that's on a normal, slower-than-hoped trajectory look identical from the inside, for as long as anyone wants them to. Every disappointing month can be explained as early-stage normal, because nothing was ever defined as the alternative. This is not usually dishonesty. It's what happens by default when optimism is cheap and nobody paid the small upfront cost of writing down what would count as a signal to stop.
+Crossing a threshold is not proof the original decision was irrational — it's worth being precise about that, because the two get confused constantly. A threshold is a trigger for reassessment, not a verdict on the decision that set it. A genuinely good decision, made with the honest information available at the time, can still cross its own threshold because the world was always uncertain and uncertain things sometimes go badly even when you play them well. What a threshold actually protects against is different and narrower: without one, a struggling plan and a plan that's on a normal, slower-than-hoped trajectory look identical from the inside, for as long as anyone wants them to. Every disappointing month can be explained as early-stage normal because nothing was ever defined as the alternative. This is not usually dishonesty. It's what happens by default when optimism is cheap and nobody paid the small upfront cost of writing down what would count as a signal to stop.
 
 ## A bad outcome is not proof of a bad decision
 
@@ -22,7 +22,7 @@ The reason this has to happen before acting, not once results start coming in, i
 
 This is exactly why the threshold belongs in Chapter 7, sized before Chapters 8 and 9 ask how reversible the decision is and what being wrong would actually cost. A threshold set before acting is a commitment to your future self about what evidence would count. A threshold negotiated after the fact usually isn't a threshold at all — it's a story about why the current results are actually fine.
 
-## What a good threshold actually looks like
+## What a good threshold looks like
 
 A useful threshold has three things a vague one doesn't: a specific number or event, a specific date by which it applies, and it has to be something you would actually notice and act on, not something so extreme it would never plausibly be reached even in a genuine failure.
 

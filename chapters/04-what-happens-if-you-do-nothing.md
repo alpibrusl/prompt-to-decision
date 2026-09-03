@@ -16,7 +16,7 @@ Treat the status quo the way any other alternative deserves to be treated: score
 
 ## Why "at least we didn't do anything" feels like protection, and often isn't
 
-There's a specific comfort in choosing the status quo that's worth being suspicious of on its own terms: it feels like the choice that can't be blamed later, because nothing was actively done. If the German expansion fails, the decision to attempt it will be scrutinized. If staying domestic means a competitor takes the opening instead, that cost rarely gets attributed to a decision at all — it just looks like something that happened to the market, not a consequence of choosing not to act.
+There's a specific comfort in choosing the status quo that's worth being suspicious of on its own terms: it feels like the choice that can't be blamed later because nothing was actively done. If the German expansion fails, the decision to attempt it will be scrutinized. If staying domestic means a competitor takes the opening instead, that cost rarely gets attributed to a decision at all — it just looks like something that happened to the market, not a consequence of choosing not to act.
 
 This asymmetry is real, and it quietly biases toward the status quo more than its actual risk profile deserves, precisely because inaction's failures are harder to trace back to a moment someone chose. Naming that bias doesn't tell you which alternative is actually better for Ledgerly. It does mean the status quo shouldn't win by default just because it's the option that feels like it can't be blamed — it has to win, if it wins, on the same honest comparison everything else has to survive.
 

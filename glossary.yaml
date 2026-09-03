@@ -12,6 +12,11 @@
 kind: technical
 title: "Prompt to Decision"
 
+# Chapter 13 teaches a habit rather than a word -- how to read an agent that
+# holds its position under pushback -- and 15 and 16 are the closing checklist
+# and the afterword, which recap the vocabulary rather than extend it.
+teaches_no_terms: [13, 15, 16]
+
 concepts:
 
   # ─── Chapter 1 — The Handoff ────────────────────────────────────────────
@@ -38,6 +43,7 @@ concepts:
       Every decision is implicitly a bet against one.
     depends_on: ["decision"]
     defined_in: 1
+    scan: true
 
   # ─── Chapter 2 — What Are You Actually Trying to Achieve? ───────────────
   - term: "objective"
@@ -101,6 +107,7 @@ concepts:
       wrong and you change course.
     depends_on: ["decision"]
     defined_in: 8
+    scan: true
 
   # ─── Chapter 9 — The Cost of Being Wrong ─────────────────────────────────
   - term: "asymmetric risk"
@@ -135,6 +142,7 @@ concepts:
       making it.
     depends_on: ["decision"]
     defined_in: 12
+    scan: true
 
   # ─── Chapter 14 — Who Owns the Decision? ─────────────────────────────────
   - term: "accountability"
@@ -144,3 +152,4 @@ concepts:
       one who has to live with the outcome and answer for it.
     depends_on: ["decision"]
     defined_in: 14
+    scan: true
