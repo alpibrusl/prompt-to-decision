@@ -1,6 +1,6 @@
 # What Are the Alternatives?
 
-Ask the agent to compare expanding into Germany versus France, and it will tell you, honestly and well, which one wins. That answer can be completely correct and still be the wrong recommendation to act on, because the real best option was never one of the two it was asked to compare.
+Ask the agent to compare expanding into Germany versus France, and it will tell you, honestly and well, which one wins. That answer can be completely correct and still be the wrong recommendation to act on because the real best option was never one of the two it was asked to compare.
 
 ## Optimizing is only as good as the menu
 

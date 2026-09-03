@@ -1,6 +1,6 @@
 # Who Bears the Risk?
 
-If Ledgerly's expansion fails, several different parties absorb the consequences, and they don't absorb them equally. That gap is worth examining directly, because it changes what "acceptable risk" actually means, and it changes it differently depending on whose seat you're asking from.
+If Ledgerly's expansion fails, several different parties absorb the consequences, and they don't absorb them equally. That gap is worth examining directly because it changes what "acceptable risk" actually means, and it changes it differently depending on whose seat you're asking from.
 
 ## The same failure, landing differently on different people
 

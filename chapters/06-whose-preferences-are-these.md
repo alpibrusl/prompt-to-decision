@@ -8,7 +8,7 @@ An **objective function** is the actual, precise thing being maximized once ever
 
 Whichever form it takes, that rule is not a neutral computation. It is a values statement, and different people with a real stake in Ledgerly's decision would write a genuinely different one. A founder two years from burning out on the current grind might weight runway safety heavily, wanting room to breathe rather than another sprint. A founder who sees a narrow window before a competitor moves might weight speed heavily, willing to take real risk to not miss it. An investor with Ledgerly as one company in a diversified portfolio might reasonably weight upside over downside protection in a way that would be genuinely reckless for a founder whose entire net worth and years of work are concentrated in this one company. None of these weightings is objectively correct. They are different people's honest preferences, and a single recommendation can only ever encode one of them.
 
-## Whose weighting did the recommendation actually use?
+## Whose weighting did the recommendation use?
 
 When an agent resolves a trade-off into one recommendation, it made a weighting choice, the same way it makes an objective choice when nobody stated one — usually by picking whatever weighting seems most implied by how the request was framed, or by defaulting to something that sounds balanced without actually being anyone's stated preference. "Balanced" is itself a choice, and it is worth asking directly whether it's the balance any actual person involved would have chosen, or a plausible-sounding default that happens to belong to nobody.
 

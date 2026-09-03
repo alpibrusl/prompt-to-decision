@@ -8,7 +8,7 @@ The **value of information** is what a decision is worth improving by, if you de
 
 Ledgerly's actual choice is rarely "expand now" versus "never expand." It is more often "expand now, on the evidence available today" versus "spend a small amount of time and money finding out something that would materially change the decision, then commit with much better information." The second option is frequently available and frequently ignored, because a recommendation framed as "should we do this" implicitly asks for a now-or-never answer that the real situation doesn't require.
 
-## What would waiting actually teach you?
+## What would waiting teach you?
 
 The question worth asking before accepting any recommendation's timeline is concrete: what, specifically, would you know in eight weeks that you don't know now, and would it actually change the decision? If the honest answer is "nothing we don't already know" — the market data is as good as it's going to get, further waiting just burns time without buying insight — then waiting has close to zero value, and moving now is the right call. If the honest answer is "we'd know whether German customers actually convert at rates close to what the model assumes," that is real, decision-relevant information, and it's worth asking what it would cost to get it before committing the full plan.
 

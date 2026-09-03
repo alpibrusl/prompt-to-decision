@@ -10,11 +10,11 @@ This is worth stating plainly because it's easy to let it drift, one small step 
 
 ## Ownership needs a name, not a committee
 
-The practical failure mode here is diffusion: a decision that everyone was involved in, that the agent helped build a strong case for, that the board discussed and nobody objected to — and that, if it goes wrong, turns out to belong to nobody in particular. "We all agreed" is a comfortable thing to say before a decision and a genuinely unhelpful one after it goes wrong, because it means nobody specifically owns fixing it, explaining it, or being the person who learns from it directly.
+The practical failure mode here is diffusion: a decision that everyone was involved in, that the agent helped build a strong case for, that the board discussed and nobody objected to — and that, if it goes wrong, turns out to belong to nobody in particular. "We all agreed" is a comfortable thing to say before a decision and a genuinely unhelpful one after it goes wrong because it means nobody specifically owns fixing it, explaining it, or being the person who learns from it directly.
 
 Before committing to anything this book has helped you stress-test, name the owner explicitly — one person, or a small, specific group, who is accountable for the outcome and who has the authority to act on the threshold from Chapter 7 if it's crossed. This doesn't mean that person made every judgment alone. It means that when the German pilot's four-month mark arrives, there's a specific person whose job it is to look at the number and act, rather than a diffuse sense that someone probably should.
 
-## What ownership actually requires
+## What ownership requires
 
 Owning a decision means three concrete things, and it's worth checking that whoever is named as the owner actually has all three, not just the title. They need the authority to act on the threshold without needing to re-litigate the whole decision when it's crossed. They need to actually be watching for it — not a founder so buried in the day-to-day of running the new market that the month-four check quietly slips. And they need to be someone the consequences genuinely reach, not a person insulated enough from the outcome that acting decisively on bad news costs them little either way.
 
