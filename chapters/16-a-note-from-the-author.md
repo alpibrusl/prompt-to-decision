@@ -2,7 +2,7 @@
 
 > **Afterword**
 
-The first book in this series ended on a line I have kept returning to since: machinery can carry verification, it cannot carry accountability, and no improvement in the machinery moves that line. I wrote it as a closing thought then. I wrote this entire book because it turned out to be the opening one.
+*Prompt to Production* ended on a line I have kept returning to since: machinery can carry verification, it cannot carry accountability, and no improvement in the machinery moves that line. I wrote it as a closing thought then. I wrote this entire book because it turned out to be the opening one.
 
 Verification, it turns out, generalises further than I expected when I wrote that sentence. Whether code runs correctly, whether an analysis is sound, whether a financial model is honest — all of that can be checked, and increasingly an agent can be trusted to do a great deal of the checking itself, provided you know which questions to ask it. That is what the first three books in this series actually teach, underneath their different subjects: not comprehension, but verification, and verification travels well. It moved cleanly from code, to data, to a spreadsheet, without losing its shape.
 

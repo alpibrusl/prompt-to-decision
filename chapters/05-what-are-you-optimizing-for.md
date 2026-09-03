@@ -66,4 +66,4 @@ Turns one point into a curve, so the choice of where to land becomes visible rat
 
 > "If we cared twice as much about preserving runway as about growth speed, would this recommendation change? Show me what it would look like instead."
 
-Tests how sensitive the recommendation actually is to the weighting between objectives — the trade-off equivalent of the sensitivity check the third book in this series applies to a single number.
+Tests how sensitive the recommendation actually is to the weighting between objectives — the trade-off equivalent of the sensitivity check *Prompt to Ledger* applies to a single number.

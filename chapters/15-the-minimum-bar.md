@@ -73,7 +73,7 @@ One question, worth asking about every recommendation before it becomes a decisi
 
 > **"What would have to be true for this to be the right call — and what happens if it isn't?"**
 
-The second book in this series closed with a close relative of this question, asked of a single number: how do you know, and what would have to be true for that to be wrong? This is its decision-level version, and the echo is deliberate — the same discipline, aimed one level higher, at a commitment instead of a fact.
+*Prompt to Evidence* closed with a close relative of this question, asked of a single number: how do you know, and what would have to be true for that to be wrong? This is its decision-level version, and the echo is deliberate — the same discipline, aimed one level higher, at a commitment instead of a fact.
 
 Ask it about every recommendation before you act on it. The answer doesn't have to be elaborate. Sometimes "we know because we set a real threshold, split the reversible from the irreversible, and named who owns it" is completely sufficient. What matters is that there's an answer, and that a specific person actually has it — rather than a company finding out, after the fact, that everyone assumed someone else did.
 
