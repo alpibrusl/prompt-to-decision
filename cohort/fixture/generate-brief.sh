@@ -56,7 +56,7 @@ cat > "$OUT" <<EOF
 
 ## Summary
 
-Ledgerly has twelve months of runway. The invoicing-automation feature has
+Ledgerly has eleven months of runway. The invoicing-automation feature has
 tested well, and the production system can handle ten times current traffic
 without breaking a sweat. We recommend hiring six people and expanding into
 Germany, starting next quarter.
@@ -77,10 +77,11 @@ the lease signed before the German go-live.
 
 ## Financial Model
 
-Current burn: approximately €40,000/month (about €130,000/month in costs
-against about €90,000/month in revenue). Projected burn once the six new
-hires are fully ramped: approximately €79,000/month. Against current runway
-of twelve months, this plan is fundable through roughly the next two
+Cash in the bank: €180,000. Current monthly costs €42,000 against €20,000
+in monthly revenue, so current burn is €22,000/month. Revenue has been
+growing about 4% a month. Projected costs once the six new hires are fully
+ramped, at €7,000 fully loaded each: €84,000/month. Against current runway
+of eleven months, this plan is fundable through roughly the next two
 quarters, after which Ledgerly will need to raise its next round regardless
 of how the German launch performs.
 
