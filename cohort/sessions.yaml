@@ -11,6 +11,13 @@ sessions:
       recommendation they actually received recently — from an agent or a
       person — and the group tests whether it survives being said in one
       precise sentence.
+    solo: >-
+      Trace the six-link chain through the chapter-1 recommendation on your
+      own. Then do the volunteer's job yourself: take a real recommendation
+      you received recently, from an agent or a person, and write the
+      objective behind it in one precise sentence. The test is the sentence.
+      If it needs a second one to make sense, the objective was not stated,
+      it was assumed.
     exercise:
       name: "Recommendation or decision?"
       description: >-
@@ -35,6 +42,11 @@ sessions:
       specifically the two categories Chapter 3 names, a cheaper trial of
       the same idea and a different use of the same resources, and the
       status quo Chapter 4 names as its own recurring blind spot.
+    solo: >-
+      The cold read works better alone than in a room, because nobody else's
+      reaction can give it away. Generate the brief, read it once as though
+      it had landed on your desk, and list what is being compared before you
+      look for what is missing.
     exercise:
       name: "Widen the comparison"
       description: >-
@@ -70,6 +82,13 @@ sessions:
       weighting the recommended point actually reflects, given that it
       hints at a real disagreement between the investor and the founders
       without ever naming which side won.
+    solo: >-
+      Find the single point the brief actually shows and sketch two more
+      from its own numbers. Then read the Team Sentiment section slowly and
+      answer, in writing, whose weighting the recommended point reflects —
+      the brief hints at a disagreement between the investor and the
+      founders and never says which side won, and noticing the omission is
+      the exercise.
     exercise:
       name: "Find the missing curve"
       description: >-
@@ -105,6 +124,14 @@ sessions:
       advance — and discovers, live, how hard that is without a real number
       on record. Then, on the board: split "hire six, sign the lease" into
       its actually-reversible parts and its actually-irreversible ones.
+    solo: >-
+      The session runs this as a tabletop in pairs, which needs a second
+      person to play the founder. Alone, do the written half. Take the
+      brief's German launch three months in, with modest and ambiguous
+      revenue, and write down what you would need on record to call it
+      normal or failing. The discovery is how little that sentence means
+      without a number agreed in advance. Then split "hire six, sign the
+      lease" into its reversible and irreversible parts.
     exercise:
       name: "Write the threshold, split the bundle"
       description: >-
@@ -128,6 +155,13 @@ sessions:
       actually be in. Then ask what a smaller, cheaper test — a single
       remote salesperson working German leads for six weeks — would need to
       show to count as a real green light or a real red one.
+    solo: >-
+      Take the brief's "60% chance of success" and write two paragraphs
+      describing what the other 40% is actually like to live through — the
+      situation, not the euro figure. Then price the cheaper test: what one
+      remote salesperson working German leads for six weeks would have to
+      show to count as a real green light, and what would count as a real
+      red one.
     exercise:
       name: "Size the downside, price the pilot"
       description: >-
@@ -152,6 +186,13 @@ sessions:
       is actually facing, not the fixture. Then: for that same decision,
       name specifically who bears the cost if it goes wrong, and whether
       the person pushing hardest for it is the same person who'd absorb it.
+    solo: >-
+      Work the three categories against a decision you are actually facing
+      rather than the fixture. This is the session that loses most alone — a
+      group generates second-order effects one person does not think of, and
+      there is no substitute for that. What you can do instead is come back
+      to your list a day later and add to it, which catches some of what a
+      room would have caught immediately.
     exercise:
       name: "Second-order effects and who bears them"
       description: >-
@@ -175,6 +216,13 @@ sessions:
       that someone expressed doubt. Then, for that same recommendation: name
       one specific person, not a team, who would actually own the decision
       and be exposed to what happens if it's wrong.
+    solo: >-
+      Do this one with a real agent, and alone it works better than it does
+      in a room: push back on a recommendation it has just produced, and
+      watch whether the revision tracks new information or merely tracks the
+      fact that you expressed doubt. Nobody is performing for an audience,
+      including you. Then name one specific person — not a team — who would
+      own that decision and be exposed if it went wrong.
     exercise:
       name: "Push back, then name the owner"
       description: >-
@@ -201,6 +249,13 @@ sessions:
       was actually stated versus only assumed, using the skill's own
       Found / Not found / Ambiguous distinctions, and which soundness
       questions still need a named human's answer rather than the skill's.
+    solo: >-
+      Run the verify-decision skill against a real recommendation, your own
+      if you have one in flight and the fixture's brief if not, and write up
+      what was actually stated against what was only assumed, using the
+      skill's own Found, Not found and Ambiguous distinctions. There is no
+      group to present to, so the writing has to carry it: an account you
+      would be willing to show the person who owns the decision.
     checkpoint: >-
       A specific, honest presence finding shared with the group — not every
       item marked Found, and not every item marked Ambiguous either — plus
