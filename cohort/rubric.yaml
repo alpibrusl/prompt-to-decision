@@ -1,3 +1,14 @@
+# The rubric is scored, so a company running this can report completion to
+# somebody who was not in the room. A cohort that would rather produce an
+# honest audit than a grade can delete this block: without it the rubric
+# renders as it always did, and nothing else changes.
+scale:
+  levels: ["Not yet", "Meets the bar", "Exemplary"]
+  pass_level: "Meets the bar"
+  # Every dimension, not an average. A check that names no owner is not
+  # rescued by having reported presence honestly.
+  all_dimensions: true
+
 dimensions:
   - name: "Presence, checked honestly"
     description: >-
@@ -6,6 +17,17 @@ dimensions:
       written down" is a real finding, not rounded up to Found because a
       plausible objective is easy to guess.
 
+    levels:
+      "Not yet": >-
+        Items are marked Found on the strength of a plausible reading — an
+        objective obvious from context is recorded as though it were stated.
+      "Meets the bar": >-
+        Every item is judged on whether it is written down somewhere
+        explicit, and at least one is honestly recorded as absent or
+        ambiguous.
+      "Exemplary": >-
+        The check locates the text that settles each item, so a second
+        reader can disagree with the verdict rather than guess at it.
   - name: "Soundness handed to a human, not resolved by the skill"
     description: >-
       For every item, the soundness question — is this the right objective,
@@ -13,6 +35,17 @@ dimensions:
       person, never answered on the recommendation's behalf, even when a
       confident-sounding answer would be easy to produce.
 
+    levels:
+      "Not yet": >-
+        At least one soundness question is answered on the recommendation's
+        behalf — a threshold judged reasonable, an objective judged right.
+      "Meets the bar": >-
+        Every soundness question is passed to a person, and none is closed
+        with a confident-sounding answer the check was not in a position to
+        give.
+      "Exemplary": >-
+        Each question is addressed to a specific named person who could
+        actually answer it, rather than to the organisation in general.
   - name: "Stakes sized, or honestly reported as unsized"
     description: >-
       The check states whether the threshold has a number, a date, and a
@@ -22,9 +55,30 @@ dimensions:
       of these is missing, says so and names who has to supply it, rather
       than drafting one on the recommendation's behalf.
 
+    levels:
+      "Not yet": >-
+        A missing threshold, split or downside is filled in on the
+        recommendation's behalf, or passed over without being named as
+        missing.
+      "Meets the bar": >-
+        For each of the three, the check states whether it exists and, where
+        it does not, says so and names who has to supply it.
+      "Exemplary": >-
+        Where something is present but weak — a threshold with no date, a
+        downside with no consequence — the check says which part is missing.
   - name: "A named owner, not a team"
     description: >-
       One person or a small, specific group is identified as accountable
       for the outcome, with real authority to act on the threshold and real
       exposure to what happens if it's wrong — not "the team," "we," or
       "leadership."
+    levels:
+      "Not yet": >-
+        Ownership is recorded as a team, a function, or leadership in
+        general, or is not addressed at all.
+      "Meets the bar": >-
+        One person or a small specific group is identified, or the check
+        states plainly that the recommendation names nobody.
+      "Exemplary": >-
+        The check also asks whether that person has authority to act on the
+        threshold and real exposure if the decision turns out wrong.
