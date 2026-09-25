@@ -2,6 +2,8 @@
 
 **The decision-making your AI agent assumes you already know.**
 
+Read it online: <https://alpibrusl.github.io/prompt-to-decision/>
+
 A short book for people who can now get a well-argued recommendation from
 an agent in a minute, but never had reason to learn the discipline of
 deciding under uncertainty. Should we hire six people and expand into a
