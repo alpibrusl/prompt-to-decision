@@ -1,0 +1,15 @@
+# Prompt to Decision
+
+> The decision-making your AI agent assumes you already know — for people who can now get a well-argued recommendation from an agent in a minute, but never had reason to learn the discipline of deciding under uncertainty.
+
+## Book
+
+- [Prompt to Decision](https://alpibrusl.github.io/prompt-to-decision/book.html): The full manuscript, sixteen chapters. A recommendation is an optimization result; a decision is a commitment made under uncertainty, with consequences.
+
+## Cohort
+
+- [Student handout](https://alpibrusl.github.io/prompt-to-decision/handout.html): The exercises and sessions built from this book, for anyone running or taking the cohort.
+
+## Series
+
+Fourth in the series, and the layer above the other three: [Prompt to Production](https://alpibrusl.github.io/prompt-to-production/), [Prompt to Evidence](https://alpibrusl.github.io/prompt-to-evidence/) and [Prompt to Ledger](https://alpibrusl.github.io/prompt-to-ledger/) each teach you to verify one kind of agent output before trusting it; this one asks whether to act on it at all.
